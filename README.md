@@ -31,6 +31,17 @@ Option 4: Close the program.
 
 Note: please note this options available can be user in different order as well, for example choose 3 and then try to stream an Artist that is Unavailable, for this a handle error has been defined across the program. 
 
+## PROJECT ARCHITECTURE
+
+```text
+.
+├── entities.py              # Domain model classes (Artiste, Song, Composition & rating logic)
+├── service.py               # Application logic (JSON loading, catalogue filters & streaming timer)
+├── main.py                  # CLI user interface & interactive menu controller
+├── storage.json             # Persistent JSON database (stores artist/song metadata & ratings)
+└── README.md                # Project documentation
+```
+
 ## How this program was tested?
 
 After I finish the program, I spent significant time validating the different inputs a user could choose, to make sure the program works as expected, the testing was focus on:
