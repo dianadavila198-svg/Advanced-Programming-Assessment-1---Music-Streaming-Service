@@ -1,0 +1,129 @@
+[
+    {
+        "artiste_name": "Vicente Fernandez",
+        "is_available": true,
+        "songs": [
+            {
+                "title": "Volver Volver",
+                "duration": 180,
+                "genre": "Ranchera",
+                "is_available": true,
+                "ratings": [
+                    5,
+                    4,
+                    5,
+                    5,
+                    5
+                ]
+            },
+            {
+                "title": "El Rey",
+                "duration": 150,
+                "genre": "Ranchera",
+                "is_available": true,
+                "ratings": [
+                    5,
+                    5,
+                    3,
+                    5,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "artiste_name": "Natalia Lafourcade",
+        "is_available": true,
+        "songs": [
+            {
+                "title": "Hasta la Raiz",
+                "duration": 222,
+                "genre": "Folk-Pop",
+                "is_available": true,
+                "ratings": [
+                    5,
+                    5,
+                    5,
+                    5,
+                    4
+                ]
+            }
+        ]
+    },
+    {
+        "artiste_name": "Beethoven",
+        "is_available": true,
+        "songs": [
+            {
+                "title": "Moonlight Sonata",
+                "duration": 300,
+                "genre": "Classical",
+                "is_available": true,
+                "ratings": [
+                    5,
+                    5
+                ]
+            },
+            {
+                "title": "Symphony No. 5",
+                "duration": 420,
+                "genre": "Classical",
+                "is_available": false,
+                "ratings": []
+            }
+        ]
+    },
+    {
+        "artiste_name": "Mozart",
+        "is_available": false,
+        "songs": [
+            {
+                "title": "Lacrimosa",
+                "duration": 190,
+                "genre": "Classical",
+                "is_available": true,
+                "ratings": [
+                    4,
+                    5
+                ]
+            }
+        ]
+    },
+    {
+        "artiste_name": "Olivia Dean",
+        "is_available": true,
+        "songs": [
+            {
+                "title": "Dive",
+                "duration": 211,
+                "genre": "Indie",
+                "is_available": true,
+                "ratings": [
+                    5,
+                    5,
+                    4
+                ]
+            },
+            {
+                "title": "The Hardest Part",
+                "duration": 185,
+                "genre": "Indie",
+                "is_available": true,
+                "ratings": [
+                    5
+                ]
+            },
+            {
+                "title": "Carmen",
+                "duration": 204,
+                "genre": "Indie",
+                "is_available": true,
+                "ratings": [
+                    5,
+                    3,
+                    5
+                ]
+            }
+        ]
+    }
+]
